@@ -1,10 +1,10 @@
 name: postcard
-description: "A new Flutter package project."
+description: "A customizable animated postcard widget for Flutter"
 version: 0.0.1
 # author: Arin Agrawal <arinagrawal05@gmail.com>
-# homepage: https://github.com/yourusername/anim_card
-# repository: https://github.com/yourusername/anim_card
-# issue_tracker: https://github.com/yourusername/anim_card/issues
+homepage: https://github.com/arinagrawal05/postcard
+repository: https://github.com/arinagrawal05/postcard
+issue_tracker: https://github.com/arinagrawal05/postcard/issues
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
