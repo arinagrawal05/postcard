@@ -1,7 +1,18 @@
 # Postcard Package
 
 **Postcard** is a Flutter widget package that displays a customizable card with animated padding. It provides an interactive experience where users can tap to reveal more content, with a floating icon to enhance its appearance. The widget is highly customizable, allowing you to easily adjust colors, icon, and animations.
+## 📸 Preview
 
+### Animation Demo
+![Postcard Demo](https://raw.githubusercontent.com/your-username/postcard/main/assets/postcard_demo.gif)
+
+### Idle State
+![Postcard Idle](https://raw.githubusercontent.com/your-username/postcard/main/assets/postcard_idle.jpg)
+
+### Expanded State
+![Postcard Expanded](https://raw.githubusercontent.com/your-username/postcard/main/assets/postcard_expanded.jpg)
+
+---
 ## Features
 
 - Customizable card color
@@ -19,6 +30,9 @@
 | `label`   | `String`   | "Tap to view more" | The text content displayed on the top of card.                                                      |
 | `icon`      | `IconData` | None (required) | The icon displayed in a floating container to the right of the card.                             |
 | `iconColor` | `Color`    | None (required) | The color of the icon in the floating container.                                                  |
+| `labelTextStyle`   | `TextStyle?`      | `TextStyle(color: Colors.black, fontSize: 20, fontWeight: FontWeight.w600)` | Optional text style for the label.                                                              |
+| `contentTextStyle` | `TextStyle?`      | `TextStyle(color: Colors.black, fontSize: 16, fontWeight: FontWeight.w400)` | Optional text style for the content.                                                            |
+| `borderShadow`     | `List<BoxShadow>?`| `[BoxShadow(color: Color(0xffFF6594).withOpacity(0.2), blurRadius: 25)]` | Optional shadow styling for the card’s border.                                                  |
 
 ## Usage
 
