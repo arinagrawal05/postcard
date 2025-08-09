@@ -4,13 +4,13 @@
 ## 📸 Preview
 
 ### Animation Demo
-![Postcard Demo](https://raw.githubusercontent.com/your-username/postcard/main/assets/postcard_demo.gif)
+![Postcard Demo](https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_demo.gif)
 
 ### Idle State
-![Postcard Idle](https://raw.githubusercontent.com/your-username/postcard/main/assets/postcard_idle.jpg)
+![Postcard Idle](https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_idle.jpg)
 
 ### Expanded State
-![Postcard Expanded](https://raw.githubusercontent.com/your-username/postcard/main/assets/postcard_expanded.jpg)
+![Postcard Expanded](https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_expanded.jpg)
 
 ---
 ## Features
