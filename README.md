@@ -9,9 +9,9 @@ The widget is highly customizable, allowing you to easily adjust colors, icons, 
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_demo.gif" alt="Postcard Demo" width="32%" />
-  <img src="https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_idle.jpg" alt="Postcard Idle" width="32%" />
-  <img src="https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_expanded.jpg" alt="Postcard Expanded" width="32%" />
+  <img src="https://raw.githubusercontent.com/arinagrawal/postcard/main/assets/postcard_demo.gif" alt="Postcard Demo" width="32%" />
+  <img src="https://raw.githubusercontent.com/arinagrawal/postcard/main/assets/postcard_idle.jpg" alt="Postcard Idle" width="32%" />
+  <img src="https://raw.githubusercontent.com/arinagrawal/postcard/main/assets/postcard_expanded.jpg" alt="Postcard Expanded" width="32%" />
 </p>
 
 ---

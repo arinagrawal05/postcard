@@ -1,4 +1,4 @@
-## 0.0.3
+## 0.0.4
 
 * Improved README with better previews and side-by-side image showcase.
 * Added example showcase section with labeled previews.
