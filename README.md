@@ -1,20 +1,22 @@
-# Postcard Package
+# 📮 Postcard Package
 
-**Postcard** is a Flutter widget package that displays a customizable card with animated padding. It provides an interactive experience where users can tap to reveal more content, with a floating icon to enhance its appearance. The widget is highly customizable, allowing you to easily adjust colors, icon, and animations.
-## 📸 Preview
-
-### Animation Demo
-![Postcard Demo](https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_demo.gif)
-
-### Idle State
-![Postcard Idle](https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_idle.jpg)
-
-### Expanded State
-![Postcard Expanded](https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_expanded.jpg)
+**Postcard** is a Flutter widget package that displays a customizable card with animated padding.  
+It provides an interactive experience where users can tap to reveal more content, with a floating icon to enhance its appearance.  
+The widget is highly customizable, allowing you to easily adjust colors, icons, and animations.
 
 ---
-## Features
 
+## 📸 Preview
+
+<p align="center">
+  <img src="https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_demo.gif" alt="Postcard Demo" width="32%" />
+  <img src="https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_idle.jpg" alt="Postcard Idle" width="32%" />
+  <img src="https://github.com/arinagrawal05/postcard/blob/main/assets/postcard_expanded.jpg" alt="Postcard Expanded" width="32%" />
+</p>
+
+---
+
+## ✨ Features
 - Customizable card color
 - Animated padding with smooth transition
 - Interactive card with tap gesture
