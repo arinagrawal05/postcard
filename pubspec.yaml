@@ -1,6 +1,6 @@
 name: postcard
 description: "A customizable animated postcard widget for Flutter"
-version: 0.0.2
+version: 0.0.3
 # author: Arin Agrawal <arinagrawal05@gmail.com>
 homepage: https://github.com/arinagrawal05/postcard
 repository: https://github.com/arinagrawal05/postcard

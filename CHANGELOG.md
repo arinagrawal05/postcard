@@ -1,3 +1,6 @@
-## 0.0.1
+## 0.0.3
 
-* TODO: Here it is initial release.
+* Improved README with better previews and side-by-side image showcase.
+* Added example showcase section with labeled previews.
+* Updated asset organization for easier demo usage.
+* Minor formatting and documentation fixes.
